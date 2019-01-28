@@ -1,0 +1,2 @@
+# dateForWeather
+这是一个动态获取显示天气信息的小demo,定时拉取在线api的json数据解析，存放到redis中，动态显示天气信息
